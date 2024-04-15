@@ -14,4 +14,4 @@ This python code in Jupyter notebook is for software engineers as a basic Machin
 - Inside the .ipynb there are many comments to understand the steps.
 
 # Reference:
-[https://quick.work/](https://quick.work/?page=view-blog&id=49&title=Introduction+to+Linear+Regression#advantage-disadvantage-and-conclusion)
+[https://quick.work/](https://quick.work/?page=view-blog&id=49&title=Introduction+to+Linear+Regression)
